@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8995D2</color>
+    <color name="colorPrimaryDark">#1337BB</color>
+    <color name="colorAccent">#DD1B60</color>
+    <color name="bolum">#00AAAA</color>
+    <color name="turuncu">#F0872B</color>
+    <color name="pemtur">#BB7069</color>
+    <color name="turpem">#CC5856</color>
+    <color name="pembe">#FFF65BAE</color>
+    <color name="sari">#EEEE10</color>
+    <color name="yesil">#00FF56</color>
+    <color name="ayesil">#00AF56</color>
+    <color name="amavi">#2FEDF3</color>
+    <color name="mavi">#0079F3</color>
+    <color name="kirm">#990000</color>
+    <color name="k">#00AF56</color>
+</resources>

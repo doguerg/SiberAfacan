@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Siber Afacan</string>
+    <string name="appName">Siber Afacan</string>
+    <string name="aciklama">internet çocukları için tavsiyeler</string>
+    <string name="BASLIK1">VİDEOLAR</string>
+    <string name="BASLIK2">NE YAPMALIYIZ?</string>
+    <string name="aile">NE OLURSA AİLEMİZE KESİNLİKLE SÖYLEMELİYİZ?</string>
+    <string name="sifrene">ŞİFRE NEDİR?</string>
+    <string name="sifreverme">ŞİFREMİZİ NEDEN KİMSEYE VERMEMELİYİZ?</string>
+    <string name="sosmedne">NEDİR BU SOSYAL MEDYA?</string>
+    <string name="sosmeddikkat">SOSYAL MEDYADA NELERE DİKKAT ETMELİYİZ?</string>
+    <string name="metin1" >Şifre, bir bilgisayar sistemine veya ağa erişmek için gizli bir anahtar olarak kullanılan karakter dizisine verilen adıdır. (harfler, sayılar, simgeler).
+    Anahtar derken, aslında elle tutulan bir anahtar gibi olmasa da bizi istemediğimiz kişilerden koruyan kapımızı açan bir görünmez anahtar diyebiliriz şifre için.
+    Bilgisayar korsanları, şifreleri tahmin ederek bir bilgisayara ya da güvenli hesaba girmeye çalışırlar.
+    En iyi şifreler bile, yeterli zaman, beceri ve güçlü bilgisayarlar ile tahmin edilebilir.
+    Ancak zaman kazanmak ve bilgisayar korsanları tarafından bize yapılan saldırıları önlemek için güçlü şifre kullanımı önemlidir.</string>
+    <string name="metin2" >Şifre bizim hayatımızda önemli yeri olan internetteki evimizin anahtarı gibidir.
+    Güvendiğimiz anne ve babamızdan başka kimseyle paylaşmamamız gerekir. Çok sevdiğimiz arkadaşlarımıza bile şifremizi vermemeliyiz.
+    Şifremiz kötü niyetli kişilerin eline geçerse sosyal medya hesaplarımızdan sanki biz yazmışız gibi başkalarına mesaj atabilir, istemediğimiz şeyler paylaşabilirler.</string>
+    <string name="metin3" >İnsanlar sevdikleri ile sohbet etmeyi severler. Ancak aynı şehirde yaşamayan insanlar için bu zordur. İnsanların birbirleriyle görüşebilmesi için önce sesi ileten telefonlar icat edilmiş, daha sonra ses yeterli olmamış ve hem görüntülü konuşma hem de fotoğraf çekmek için kameralı akıllı telefonlar icat edilmiştir.
+    Çektiğimiz bu fotoğrafları paylaşmak ve yaptıklarımızı diğer insanlara göstermek için ortaya sosyal medya çıkmıştır. Artık herkes arkadaşlarına nerede ne yaptığını kolayca gösterebilir olmuştur.
+    Bu kulağa güzel gibi gelse de dikkatli olmamız gereken konular var.</string>
+    <string name="metin4" >Ev adresi ve cep telefonumuz gibi özel bilgilerimizi sosyal medyada paylaşmamalıyız.
+    Tanımadığımız kişileri sosyal medya hesabımıza eklememeliyiz.
+    Kötü niyetli bir mesaj ya da bildirimle karşılaştığımızda hemen ailemize haber vermeli, böyle mesajlara cevap vermemeliyiz.
+    Sosyal medya hesabında biri ile dalga geçmemeli, birine yaralayıcı /kötü sözler yazmamalı, birinin fotoğrafını izinsiz paylaşmamalıyız.
+    Sosyal medya hesabını kullanırken bizi üzen, rahatsız eden bir durum olduğunda mutlaka ailemizle konuşmalıyız.</string>
+    <string name="metin5" >Tanımadığımız birisinden gelen mesajlara cevap vermemeli ve hemen anne-babamıza haber vermeliyiz.
+    Mesaj atan kişinin kendisini farklı biri gibi tanıtabileceğini unutmamalıyız. Örneğin kötü niyetli bir yetişkin bizimle aynı yaşta olduğunu, bizimle arkadaş olmak istediğini söyleyebilir. Görüntülü konuşma yapmak isteyebilir. Bu gibi durumlarda hemen ailemize haber vermeliyiz.
+    Evimizin, okulumuzun adresini, anne ve babamızın nerede ne iş yaptığını soranlara da hiç cevap vermemeli ve ailemize haber vermeliyiz. Bize zarar vermek isteyen kişiler olabileceğini unutmamalıyız.</string>
+    <string name="siber_zorbalik_nedir">Siber Zorbalık Nedir?</string>
+    <string name="begendiginherseyetiklama">Beğendiğin Her Şeye Tıklama!</string>
+    <string name="turkcemize_dikkat">Türkçemize Dikkat!</string>
+    <string name="sosyal_medya_hesaplar_guvenligi">Sosyal Medya Hesapları Güvenliği</string>
+    <string name="siber_kiz">Siber Kız</string>
+    <string name="nekadarzaman">İnternette Ne Kadar Zaman Geçirmeliyiz?</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+</resources>

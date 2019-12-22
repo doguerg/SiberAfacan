@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/okuyancocuk"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnmetin1"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="128dp"
+        android:alpha="0.75"
+        android:background="#00AFAF"
+        android:fadingEdge="horizontal|vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/sifrene"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnmetin2"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:alpha="0.75"
+        android:background="#00AFAF"
+        android:fadingEdge="horizontal|vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/sifreverme"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnmetin1" />
+
+    <Button
+        android:id="@+id/btnmetin3"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:alpha="0.75"
+        android:background="#00AFAF"
+        android:fadingEdge="horizontal|vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/sosmedne"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnmetin2" />
+
+    <Button
+        android:id="@+id/btnmetin5"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:alpha="0.75"
+        android:background="#00AFAF"
+        android:fadingEdge="horizontal|vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/aile"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnmetin4" />
+
+    <Button
+        android:id="@+id/btnmetin4"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginLeft="96dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="95dp"
+        android:layout_marginRight="95dp"
+        android:alpha="0.75"
+        android:background="#00AFAF"
+        android:fadingEdge="horizontal|vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/sosmeddikkat"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnmetin3" />
+
+
+</android.support.constraint.ConstraintLayout>
